@@ -2,12 +2,14 @@
 
 A curated collection of high-quality wallpapers organized by categories.
 
+> [!IMPORTANT]
+> I do not own the rights to any of the images in this collection. All images are the property of their respective owners and are used for personal or educational use only.
+
 ## 📊 Statistics
 
 - **Total Wallpapers:** 3602
 - **Total Size:** 7969.22 MB
 - **Categories:** 57
-- **Last Updated:** 2025-05-12 09:50:02 UTC
 
 ## 📂 Categories
 
